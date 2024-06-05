@@ -1,4 +1,4 @@
-## PacketTrait Analyzer
+## Packet Trait Analyzer
 
 Packet Trait Analyzer is a tool to extracts network features from pcap files in specified time windows and writes the aggregated features to a CSV file.
 
@@ -18,7 +18,7 @@ The current usage of the program is not documented due to rapid changes in the p
 python3 PacketTrait_Analyzer.py data_pcap/example.pcap data_csv/example.csv
 ```
 
-### Features extracted
+### Features Extracted
 
 ```bash
     StartTime NUMERIC
